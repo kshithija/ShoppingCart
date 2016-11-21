@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td>
-User name :
+User name (enter your name):
 </td>
 <td>
 <input type="text" name="usr" />
@@ -21,7 +21,7 @@ User name :
 </tr>
 <tr>
 <td>
-password :
+password (enter your password):
 </td>
 <td>
 <input type="password" name="pwd" />
