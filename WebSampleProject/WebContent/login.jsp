@@ -15,6 +15,7 @@ if(rs.next())
 if(rs.getString(2).equals(pwd)) 
 { 
 out.println("welcome"+userid); 
+out.println("welcome"); 
 
 
 
